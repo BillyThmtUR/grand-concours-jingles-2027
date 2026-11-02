@@ -7,8 +7,9 @@ const JINGLES = [
     "file": "media/introduction.mp4",
     "poster": "media/introduction.jpg",
     "duration": 10.0,
-    "driveUrl": "https://drive.google.com/file/d/1hpehlckNVg7hTFRKNi-rTE2zOhuDrcYE/view?usp=sharing",
-    "source_filename": "01_Intro_Le_Grand_Concours.mp4"
+    "driveUrl": null,
+    "source_filename": "01_Intro_Le_Grand_Concours.mp4",
+    "size1080": 6373864
   },
   {
     "id": "manche-1",
@@ -18,8 +19,9 @@ const JINGLES = [
     "file": "media/manche-1.mp4",
     "poster": "media/manche-1.jpg",
     "duration": 6.0,
-    "driveUrl": "https://drive.google.com/file/d/1V7qi5j-6ZmiyUqyzyFas0_Y8DBubXBl7/view?usp=sharing",
-    "source_filename": "02_Manche_1_Eliminatoire.mp4"
+    "driveUrl": null,
+    "source_filename": "02_Manche_1_Eliminatoire.mp4",
+    "size1080": 3962773
   },
   {
     "id": "manche-2",
@@ -29,8 +31,9 @@ const JINGLES = [
     "file": "media/manche-2.mp4",
     "poster": "media/manche-2.jpg",
     "duration": 6.0,
-    "driveUrl": "https://drive.google.com/file/d/1wapOUjUrSwtxcCz4AnZSYVPT9VOTO9Eq/view?usp=sharing",
-    "source_filename": "03_Manche_2_Eliminatoire.mp4"
+    "driveUrl": null,
+    "source_filename": "03_Manche_2_Eliminatoire.mp4",
+    "size1080": 3982898
   },
   {
     "id": "demi-finale",
@@ -40,8 +43,9 @@ const JINGLES = [
     "file": "media/demi-finale.mp4",
     "poster": "media/demi-finale.jpg",
     "duration": 6.0,
-    "driveUrl": "https://drive.google.com/file/d/1bdfxA2vk72kG9-w0HlRFlYDK87pBeNJg/view?usp=sharing",
-    "source_filename": "04_Demi-finale.mp4"
+    "driveUrl": null,
+    "source_filename": "04_Demi-finale.mp4",
+    "size1080": 4332350
   },
   {
     "id": "finale",
@@ -51,8 +55,9 @@ const JINGLES = [
     "file": "media/finale.mp4",
     "poster": "media/finale.jpg",
     "duration": 7.0,
-    "driveUrl": "https://drive.google.com/file/d/1kQ2anYwpZUnoskEcqyVS9TFxnaH_xWON/view?usp=sharing",
-    "source_filename": "05_Finale.mp4"
+    "driveUrl": null,
+    "source_filename": "05_Finale.mp4",
+    "size1080": 5495305
   },
   {
     "id": "conclusion",
@@ -62,7 +67,8 @@ const JINGLES = [
     "file": "media/conclusion.mp4",
     "poster": "media/conclusion.jpg",
     "duration": 8.0,
-    "driveUrl": "https://drive.google.com/file/d/12x2vtm34gwtyqxFkNrENHYFP6M1uQ4e_/view?usp=sharing",
-    "source_filename": "06_Outro_Le_Grand_Concours.mp4"
+    "driveUrl": null,
+    "source_filename": "06_Outro_Le_Grand_Concours.mp4",
+    "size1080": 4844846
   }
 ];
